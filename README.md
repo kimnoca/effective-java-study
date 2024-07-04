@@ -43,4 +43,4 @@
 
 -   [@kmellon-kth](https://github.com/kmellon-kth)
 
--   [@kimnoca](https://github.com/gardenzeeero)
+-   [@gardenzeeero](https://github.com/gardenzeeero)
